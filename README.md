@@ -1,4 +1,4 @@
-# Hi, I'm Linwoo 👋
+# Hi, I'm Tamil
 
 I’m an AI and Data Science student building practical machine-learning tools, intelligent assistants, and data-driven applications.
 
